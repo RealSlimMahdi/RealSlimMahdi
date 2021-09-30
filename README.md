@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is &lt;Mahdi /&gt;
+
 ##### I am a Data Scientist in Pharma
+
 ![I am a Data Scientist in Pharma]()
 
 <p>
@@ -44,10 +46,10 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
       width="40"
       height="40"
     />
@@ -60,13 +62,11 @@
       height="40"
     />
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
+    <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
+  <br />
+    <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
@@ -74,14 +74,40 @@
       height="40"
     />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
     />
+  </a>  
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
   </a>
+  <a href="https://webpack.js.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
+      alt="webpack"
+      width="40"
+      height="40"
+    />
+  </a>
+  <br />
+
   <a href="https://www.linux.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -114,18 +140,19 @@
       height="40"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <br />
+<a href="https://www.sas.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg"
+      alt="SAS programming"
       width="40"
       height="40"
     />
@@ -138,34 +165,22 @@
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
+    <a href="https://www.rstudio.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
+      src="https://www.r-project.org/logo/Rlogo.svg"
+      alt="R programming"
       width="40"
       height="40"
     />
+
   </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-      alt="webpack"
-      width="40"
-      height="40"
-    />
-  </a>
+
 </p>
 <br />
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RealSlimMahdi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mahdi-about//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.mahdiabout.com)
-
-|               |               |
-| :---: | :---: |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealSlimMahdi)](https://github.com/RealSlimMahdi/github-readme-stats)  | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RealSlimMahdi&show_icons=true&count_private=true)  |
-| ![GitHub metrics](https://metrics.lecoq.io/RealSlimMahdi)  |   |
+|                                                                                                                                                    |                                                                                                                       |
+| :------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealSlimMahdi)](https://github.com/RealSlimMahdi/github-readme-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RealSlimMahdi&show_icons=true&count_private=true) |
+|                                             ![GitHub metrics](https://metrics.lecoq.io/RealSlimMahdi)                                              |                                                                                                                       |
 
 ![Profile views](https://gpvc.arturio.dev/RealSlimMahdi)
-
- 
