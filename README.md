@@ -179,8 +179,8 @@
 <br />
 
 |                                                                                                                                                    |                                                                                                                       |
-| :------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+| :--------------: | :-----------------------------: |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealSlimMahdi)](https://github.com/RealSlimMahdi/github-readme-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RealSlimMahdi&show_icons=true&count_private=true) |
-|                                             ![GitHub metrics](https://metrics.lecoq.io/RealSlimMahdi)                                              |                                                                                                                       |
+|                                             ![GitHub metrics](https://metrics.lecoq.io/RealSlimMahdi)                                                                                                                                                                  |
 
 ![Profile views](https://gpvc.arturio.dev/RealSlimMahdi)
