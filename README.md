@@ -32,8 +32,8 @@
 <p>🏆 Mahdi is a technical expert with a unique track record in applying advanced analytics to achieve first-class clinical trial reporting and regulatory submissions.</p>
 <br />
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning CSS3
+- 🔭 I’m currently working as Data Scientist in the Pharma industry
+- 🌱 I’m currently learning too many things at once
 - 👯 I’m looking to collaborate on Open Source Projects in Pharma space
 - 🤔 I’m looking for help with DevOps
 - 💬 Ask me about SAS / R / ReactJS
