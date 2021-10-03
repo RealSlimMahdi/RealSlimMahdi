@@ -1,10 +1,9 @@
-### Hi there 👋, my name is &lt;Mahdi /&gt;
-
-##### I am a Data Scientist in Pharma
-
-![I am a Data Scientist in Pharma]()
+### Hi there 👋, my name is &lt;Mahdi /&gt;; I am a Data Scientist in Pharma 
+<!-- <br /> ![I am a Data Scientist in Pharma]() -->
+<hr/>
+Get in Touch: <br />
 <p>
-  <a href="https://www.twitter.com/mokkapps">
+  <a href="https://www.twitter.com/xxx">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
   </a> 
   <a href="https://www.linkedin.com/in/mahdi-about/">
@@ -19,6 +18,12 @@
   <a href="https://dev.to/realslimmahdi">
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
   </a>
+  <br /><a href="https://www.buymeacoffee.com/RealSlimMahdi" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+  </a>
+  <!-- <p>
+  <a href="https://www.google.fr">➡️ Check out my website</a>
+</p> -->
 </p>
 
 <!-- 
@@ -29,17 +34,12 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:XXX)
  -->
  
-<!-- <p>
-  <a href="https://www.google.fr">➡️ Check out my website</a>
-</p> -->
-  <a href="https://www.buymeacoffee.com/RealSlimMahdi" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+
 
 ##### Icebreaker: A Joke ! 😂
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<h3 align="left">About Me:</h3>
+### About Me:
 <p>🏆 Mahdi is a technical expert with a unique track record in applying advanced analytics to achieve first-class clinical trial reporting and regulatory submissions.</p>
 <br />
 
