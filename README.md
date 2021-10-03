@@ -4,6 +4,9 @@
 
 ![I am a Data Scientist in Pharma]()
 
+##### Icebreaker: A Joke ! 😂
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <p>
   <a href="https://www.twitter.com/mokkapps">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
@@ -21,6 +24,15 @@
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
   </a>
 </p>
+
+<!-- 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RealSlimMahdi)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-about/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/XXX/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:XXX)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:XXX)
+ -->
+ 
 <!-- <p>
   <a href="https://www.google.fr">➡️ Check out my website</a>
 </p> -->
