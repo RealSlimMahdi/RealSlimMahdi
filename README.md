@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is &lt;Mahdi /&gt;; I am a Data Scientist in Pharma 
 <!-- <br /> ![I am a Data Scientist in Pharma]() -->
 <hr/>
-Get in Touch: <br />
 <p>
   <a href="https://www.twitter.com/xxx">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
@@ -34,15 +33,16 @@ Get in Touch: <br />
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:XXX)
  -->
  
-
-
-##### Icebreaker: A Joke ! 😂
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ### About Me:
-<p>🏆 Mahdi is a technical expert with a unique track record in applying advanced analytics to achieve first-class clinical trial reporting and regulatory submissions.</p>
-<br />
+<p>I am a technical expert with a unique track record in applying advanced analytics to achieve first-class clinical trial reporting and regulatory submissions.</p>
 
+### My Values
+- 🤚 Honesty 
+- 🚀 Performance 
+- 🦾 Innovation
+- 🤝 Trust
+
+<!-- 
 - 🔭 I’m currently working as Data Scientist in the Pharma industry
 - 🌱 I’m currently learning too many things at once
 - 👯 I’m looking to collaborate on Open Source Projects in Pharma space
@@ -50,7 +50,8 @@ Get in Touch: <br />
 - 💬 Ask me about SAS / R / ReactJS
 - 📫 How to reach me: ✉️
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: Thai Food lover, terrible 👨🏼‍🍳
+- ⚡ Fun fact: Thai Food lover, terrible 👨🏼‍🍳 
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -189,9 +190,12 @@ Get in Touch: <br />
 </p>
 <br />
 
-|                                                                                                                                                    |                                                                                                                       |
-| :--------------: | :-----------------------------: |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealSlimMahdi)](https://github.com/RealSlimMahdi/github-readme-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RealSlimMahdi&show_icons=true&count_private=true) |
-|                                             ![GitHub metrics](https://metrics.lecoq.io/RealSlimMahdi)                                                                                                                                                                  |
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealSlimMahdi)](https://github.com/RealSlimMahdi/github-readme-stats)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RealSlimMahdi&show_icons=true&count_private=true)
+![GitHub metrics](https://metrics.lecoq.io/RealSlimMahdi)    -->
+
+### Thanks for visiting, here's a joke: 😂
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![Profile views](https://gpvc.arturio.dev/RealSlimMahdi)
