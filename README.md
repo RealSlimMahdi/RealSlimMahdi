@@ -3,10 +3,6 @@
 ##### I am a Data Scientist in Pharma
 
 ![I am a Data Scientist in Pharma]()
-
-##### Icebreaker: A Joke ! 😂
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <p>
   <a href="https://www.twitter.com/mokkapps">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
@@ -39,6 +35,8 @@
   <a href="https://www.buymeacoffee.com/RealSlimMahdi" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
+##### Icebreaker: A Joke ! 😂
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="left">About Me:</h3>
 <p>🏆 Mahdi is a technical expert with a unique track record in applying advanced analytics to achieve first-class clinical trial reporting and regulatory submissions.</p>
