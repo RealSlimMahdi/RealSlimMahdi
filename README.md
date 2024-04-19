@@ -193,9 +193,10 @@
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealSlimMahdi)](https://github.com/RealSlimMahdi/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RealSlimMahdi&show_icons=true&count_private=true)
-![GitHub metrics](https://metrics.lecoq.io/RealSlimMahdi)    -->
+![GitHub metrics](https://metrics.lecoq.io/RealSlimMahdi)    
 
 ### Thanks for visiting, here's a joke: 😂
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![Profile views](https://gpvc.arturio.dev/RealSlimMahdi)
+-->
