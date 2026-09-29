@@ -1,202 +1,63 @@
-### Hi there 👋, my name is &lt;Mahdi /&gt;; I am a Data Scientist in Pharma 
-<!-- <br /> ![I am a Data Scientist in Pharma]() -->
-<hr/>
-<p>
-  <a href="https://www.twitter.com/xxx">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-  </a> 
-  <a href="https://www.linkedin.com/in/mahdi-about/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a> 
-<!--   <a href="https://www.instagram.com//">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
-  </a>  -->
-  <a href="https://medium.com/@mahdi.a">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
-  </a> 
-  <a href="https://dev.to/realslimmahdi">
-    <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
-  </a>
-  <br /><a href="https://www.buymeacoffee.com/RealSlimMahdi" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-  </a>
-  <!-- <p>
-  <a href="https://www.google.fr">➡️ Check out my website</a>
-</p> -->
-</p>
+<h1 align="left">Mahdi About</h1>
 
-<!-- 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RealSlimMahdi)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-about/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/XXX/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:XXX)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:XXX)
- -->
- 
-### About Me:
-<p>I am a Principal Analytical Data Scientist and biometrics leader with 15+ years of experience across oncology, rare disease, and clinical pharmacology.  My work sits at the intersection of regulatory delivery, technical excellence, and digital transformation.</p>
+**Principal Analytical Data Scientist · Biometrics · Open-source clinical tooling**
 
-### My Values
-- 🤚 Honesty 
-- 🚀 Performance 
-- 🦾 Innovation
-- 🤝 Trust
+I build fast, auditable, and reproducible pipelines for clinical trial reporting, from raw data to CSR.
+15+ years across oncology, rare disease, and clinical pharmacology at Roche and Novartis.
 
-<!-- 
-- 🔭 I’m currently working as Data Scientist in the Pharma industry
-- 🌱 I’m currently learning too many things at once
-- 👯 I’m looking to collaborate on Open Source Projects in Pharma space
-- 🤔 I’m looking for help with DevOps
-- 💬 Ask me about SAS / R / ReactJS
-- 📫 How to reach me: ✉️
-- 😄 Pronouns: He, Him
-- ⚡ Fun fact: Thai Food lover, terrible 👨🏼‍🍳 
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-about/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mahdi.a)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/realslimmahdi)
+[![pharmaverse](https://img.shields.io/badge/pharmaverse-member-2C7BB6?style=flat-square)](https://pharmaverse.org)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <br />
-    <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>  
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-      alt="webpack"
-      width="40"
-      height="40"
-    />
-  </a>
-  <br />
+---
 
-  <a href="https://www.linux.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-      alt="nginx"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <br />
-<a href="https://www.sas.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg"
-      alt="SAS programming"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://www.rstudio.com/" target="_blank">
-    <img
-      src="https://www.r-project.org/logo/Rlogo.svg"
-      alt="R programming"
-      width="40"
-      height="40"
-    />
+### 🔬 What I work on
 
-  </a>
+- **Clinical data engineering**: CDISC/SDTM/ADaM, oncology response criteria (RECIST), TLG production
+- **Developer experience for biometrics**: tooling, workflows, and automation that let programmers focus on the science
+- **AI in regulated work**: practical, auditable use of LLMs in statistical programming
 
-</p>
-<br />
+### 🛠️ Currently building
 
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealSlimMahdi)](https://github.com/RealSlimMahdi/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RealSlimMahdi&show_icons=true&count_private=true)
-![GitHub metrics](https://metrics.lecoq.io/RealSlimMahdi)    
+| Project | What it is |
+|---|---|
+| [**Fleet**](https://github.com/RealSlimMahdi/fleet) | An opinionated, high-performance Python toolkit for clinical reporting, powered by [Polars](https://pola.rs). Calculations are kept separate from presentation so results stay auditable. |
+| [**fleet-vscode**](https://github.com/RealSlimMahdi/fleet-vscode) | A VS Code extension that brings Fleet workflows into the editor. |
 
-### Thanks for visiting, here's a joke: 😂
-![Jokes Card](https://readme-jokes.vercel.app/api)
+> Looking for collaborators interested in a **Python-native** option for clinical reporting that works alongside the R ecosystem.
 
-![Profile views](https://gpvc.arturio.dev/RealSlimMahdi)
--->
+### 📐 How I work
+
+- **Rigor over inspiration**: every number must trace back to its source.
+- **Separate compute from presentation**: analysis logic should never live inside a table layout.
+- **Predictable APIs**: boring interfaces, fast engines.
+- **Open by default**: shared tooling beats reinventing it in every company.
+
+### 🧰 Stack
+
+**Clinical & analytics**
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1F4E79?style=flat-square)
+![CDISC](https://img.shields.io/badge/CDISC-SDTM%20%7C%20ADaM-4B8BBE?style=flat-square)
+![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white)
+
+**Engineering**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Posit Connect](https://img.shields.io/badge/Posit%20Connect-447099?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=white)
+
+### 🎤 Writing & talks
+
+- PHUSE EU Connect: *<talk title, year>*
+- *<Medium / dev.to article title>*: [read](https://medium.com/@mahdi.a)
+
+---
+
+<sub>Views and code here are my own and do not represent my employer.
+Enjoy my work? <a href="https://www.buymeacoffee.com/RealSlimMahdi">Buy me a coffee ☕</a></sub>
