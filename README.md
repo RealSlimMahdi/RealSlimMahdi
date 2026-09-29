@@ -34,7 +34,7 @@
  -->
  
 ### About Me:
-<p>I am a technical expert with a unique track record in applying advanced analytics to achieve first-class clinical trial reporting and regulatory submissions.</p>
+<p>I am a Principal Analytical Data Scientist and biometrics leader with 15+ years of experience across oncology, rare disease, and clinical pharmacology.  My work sits at the intersection of regulatory delivery, technical excellence, and digital transformation.</p>
 
 ### My Values
 - 🤚 Honesty 
